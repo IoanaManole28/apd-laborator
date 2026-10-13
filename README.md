@@ -4,3 +4,6 @@ Nod de achiziție a temperaturii bazat pe Arduino Uno.
 
 ## Autor
 Ioana Manole, Grupa 2
+
+## Hardware
+Arduino Uno R3, senzor de temperatură TMP36
