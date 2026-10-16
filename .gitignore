@@ -2,3 +2,4 @@ build/
 *.hex
 *.log
 .vscode/
+secret.txt
