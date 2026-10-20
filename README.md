@@ -12,3 +12,5 @@ Parolele si cheile de acces nu trebuie sa ajunga niciodata intr un repository, c
 Platforma: Arduino Uno R3 (ATmega328P)
 Autor laborator: Manole Ioana
 Autor laborator: Manole Ioana
+
+## Adaugat parametri si documentatie
