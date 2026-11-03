@@ -6,3 +6,4 @@
 #define LED_PIN 13 // LED de stare
 #endif
 #define ALARM_TEMP_C 45.0
+#define SAMPLE_PERIOD_MS 500
