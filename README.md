@@ -14,3 +14,5 @@ Autor laborator: Manole Ioana
 Autor laborator: Manole Ioana
 
 ## Adaugat parametri si documentatie
+
+##Documentatie proiect
