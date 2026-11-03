@@ -5,3 +5,4 @@
 #define SERIAL_BAUD 19200
 #define LED_PIN 13 // LED de stare
 #endif
+#define ALARM_TEMP_C 45.0
